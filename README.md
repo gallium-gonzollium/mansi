@@ -1,4 +1,4 @@
-# ANSI Codes
+# mANSI
 
 A Python module to handle ANSI escape codes for terminal control, providing features for cursor movement, text formatting, and color manipulation.
 
@@ -14,12 +14,12 @@ A Python module to handle ANSI escape codes for terminal control, providing feat
 You can install the package using pip (not published yet):
 
 ```bash
-pip install ansi_codes
+pip install mansi
 ```
 
 # Usage
 ```py
-from ansi_codes import Cursor, Color, Font, Erase
+from mansi import Cursor, Color, Font, Erase
 
 Cursor.home()
 Erase.all()
