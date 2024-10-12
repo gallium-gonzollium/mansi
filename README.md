@@ -11,7 +11,7 @@ A Python module to handle ANSI escape codes for terminal control, providing feat
 
 ## Installation
 
-You can install the package using pip:
+You can install the package using pip (not published yet):
 
 ```bash
 pip install ansi_codes
